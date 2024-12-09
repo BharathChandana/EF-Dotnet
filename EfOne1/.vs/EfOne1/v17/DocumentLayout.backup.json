@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mypractice\\EfOne1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9BB4D2-ED86-4B1E-9276-8F822AD94271}|EfOne1\\EfOne1.csproj|e:\\mypractice\\efone1\\efone1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9BB4D2-ED86-4B1E-9276-8F822AD94271}|EfOne1\\EfOne1.csproj|solutionrelative:efone1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9BB4D2-ED86-4B1E-9276-8F822AD94271}|EfOne1\\EfOne1.csproj|E:\\Mypractice\\EfOne1\\efone1\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9BB4D2-ED86-4B1E-9276-8F822AD94271}|EfOne1\\EfOne1.csproj|solutionrelative:efone1\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9BB4D2-ED86-4B1E-9276-8F822AD94271}|EfOne1\\EfOne1.csproj|E:\\Mypractice\\EfOne1\\efone1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9BB4D2-ED86-4B1E-9276-8F822AD94271}|EfOne1\\EfOne1.csproj|solutionrelative:efone1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9BB4D2-ED86-4B1E-9276-8F822AD94271}|EfOne1\\EfOne1.csproj|E:\\Mypractice\\EfOne1\\efone1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1F9BB4D2-ED86-4B1E-9276-8F822AD94271}|EfOne1\\EfOne1.csproj|solutionrelative:efone1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Mypractice\\EfOne1\\EfOne1\\App.config",
+              "RelativeDocumentMoniker": "EfOne1\\App.config",
+              "ToolTip": "E:\\Mypractice\\EfOne1\\EfOne1\\App.config",
+              "RelativeToolTip": "EfOne1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-20T10:40:13.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EfOne1\\EfOne1\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EfOne1\\EmployeeContext.cs",
+              "ToolTip": "E:\\Mypractice\\EfOne1\\EfOne1\\EmployeeContext.cs",
+              "RelativeToolTip": "EfOne1\\EmployeeContext.cs",
+              "ViewState": "AgIAAAMAAABAZmZmZmYUwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:27:02.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EfOne1\\EfOne1\\Employee.cs",
+              "RelativeDocumentMoniker": "EfOne1\\Employee.cs",
+              "ToolTip": "E:\\Mypractice\\EfOne1\\EfOne1\\Employee.cs",
+              "RelativeToolTip": "EfOne1\\Employee.cs",
+              "ViewState": "AgIAABEAAACANTMzMzMHwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:26:47.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EfOne1\\EfOne1\\Program.cs",
+              "RelativeDocumentMoniker": "EfOne1\\Program.cs",
+              "ToolTip": "E:\\Mypractice\\EfOne1\\EfOne1\\Program.cs",
+              "RelativeToolTip": "EfOne1\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAbGZmZmYcwFUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:25:45.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
