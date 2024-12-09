@@ -1,0 +1,12 @@
+E:\Mypractice\EfTwo\EfTwo\bin\Debug\EfTwo.exe.config
+E:\Mypractice\EfTwo\EfTwo\bin\Debug\EfTwo.exe
+E:\Mypractice\EfTwo\EfTwo\bin\Debug\EfTwo.pdb
+E:\Mypractice\EfTwo\EfTwo\bin\Debug\EntityFramework.dll
+E:\Mypractice\EfTwo\EfTwo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mypractice\EfTwo\EfTwo\bin\Debug\EntityFramework.xml
+E:\Mypractice\EfTwo\EfTwo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mypractice\EfTwo\EfTwo\obj\Debug\EfTwo.csproj.AssemblyReference.cache
+E:\Mypractice\EfTwo\EfTwo\obj\Debug\EfTwo.csproj.CoreCompileInputs.cache
+E:\Mypractice\EfTwo\EfTwo\obj\Debug\EfTwo.csproj.Up2Date
+E:\Mypractice\EfTwo\EfTwo\obj\Debug\EfTwo.exe
+E:\Mypractice\EfTwo\EfTwo\obj\Debug\EfTwo.pdb
