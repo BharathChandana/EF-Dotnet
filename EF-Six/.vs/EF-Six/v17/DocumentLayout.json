@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mypractice\\EF-Six\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|e:\\mypractice\\ef-six\\ef-six\\migrations\\202411060617483_firsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|solutionrelative:ef-six\\migrations\\202411060617483_firsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|e:\\mypractice\\ef-six\\ef-six\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|solutionrelative:ef-six\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|e:\\mypractice\\ef-six\\ef-six\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|solutionrelative:ef-six\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|e:\\mypractice\\ef-six\\ef-six\\dal\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|solutionrelative:ef-six\\dal\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|e:\\mypractice\\ef-six\\ef-six\\modelclasses\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|solutionrelative:ef-six\\modelclasses\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|e:\\mypractice\\ef-six\\ef-six\\modelclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|solutionrelative:ef-six\\modelclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|e:\\mypractice\\ef-six\\ef-six\\modelclasses\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|solutionrelative:ef-six\\modelclasses\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|e:\\mypractice\\ef-six\\ef-six\\modelclasses\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|solutionrelative:ef-six\\modelclasses\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|e:\\mypractice\\ef-six\\ef-six\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AFC076-91D7-42D0-8772-57FBA36A0AFB}|EF-Six\\EF-Six.csproj|solutionrelative:ef-six\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202411060617483_FirstTime.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Six\\EF-Six\\Migrations\\202411060617483_FirstTime.cs",
+              "RelativeDocumentMoniker": "EF-Six\\Migrations\\202411060617483_FirstTime.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Six\\EF-Six\\Migrations\\202411060617483_FirstTime.cs",
+              "RelativeToolTip": "EF-Six\\Migrations\\202411060617483_FirstTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:18:09.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Six\\EF-Six\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "EF-Six\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Six\\EF-Six\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "EF-Six\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAIAAABQ//////8gwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:11:30.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Six\\EF-Six\\App.config",
+              "RelativeDocumentMoniker": "EF-Six\\App.config",
+              "ToolTip": "E:\\Mypractice\\EF-Six\\EF-Six\\App.config",
+              "RelativeToolTip": "EF-Six\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-06T06:06:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Six\\EF-Six\\DAL\\ProductContext.cs",
+              "RelativeDocumentMoniker": "EF-Six\\DAL\\ProductContext.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Six\\EF-Six\\DAL\\ProductContext.cs",
+              "RelativeToolTip": "EF-Six\\DAL\\ProductContext.cs",
+              "ViewState": "AgIAAAgAAAA4AAAAAAAhwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:03:54.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Six\\EF-Six\\ModelClasses\\Product.cs",
+              "RelativeDocumentMoniker": "EF-Six\\ModelClasses\\Product.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Six\\EF-Six\\ModelClasses\\Product.cs",
+              "RelativeToolTip": "EF-Six\\ModelClasses\\Product.cs",
+              "ViewState": "AgIAABsAAABA+v////8dwB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:53:43.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Six\\EF-Six\\ModelClasses\\ProductType.cs",
+              "RelativeDocumentMoniker": "EF-Six\\ModelClasses\\ProductType.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Six\\EF-Six\\ModelClasses\\ProductType.cs",
+              "RelativeToolTip": "EF-Six\\ModelClasses\\ProductType.cs",
+              "ViewState": "AgIAAAgAAAAAnZmZmZkFwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:51:05.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Six\\EF-Six\\ModelClasses\\Brand.cs",
+              "RelativeDocumentMoniker": "EF-Six\\ModelClasses\\Brand.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Six\\EF-Six\\ModelClasses\\Brand.cs",
+              "RelativeToolTip": "EF-Six\\ModelClasses\\Brand.cs",
+              "ViewState": "AgIAAAsAAACAMzMzMzMrwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:48:29.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Six\\EF-Six\\ModelClasses\\Category.cs",
+              "RelativeDocumentMoniker": "EF-Six\\ModelClasses\\Category.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Six\\EF-Six\\ModelClasses\\Category.cs",
+              "RelativeToolTip": "EF-Six\\ModelClasses\\Category.cs",
+              "ViewState": "AgIAAAYAAABgzMzMzMwnwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:43:13.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Six\\EF-Six\\Program.cs",
+              "RelativeDocumentMoniker": "EF-Six\\Program.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Six\\EF-Six\\Program.cs",
+              "RelativeToolTip": "EF-Six\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:41:58.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+E:\Mypractice\EF-Four\EF-Four\bin\Debug\EF-Four.exe.config
+E:\Mypractice\EF-Four\EF-Four\bin\Debug\EF-Four.exe
+E:\Mypractice\EF-Four\EF-Four\bin\Debug\EF-Four.pdb
+E:\Mypractice\EF-Four\EF-Four\bin\Debug\EntityFramework.dll
+E:\Mypractice\EF-Four\EF-Four\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mypractice\EF-Four\EF-Four\bin\Debug\EntityFramework.xml
+E:\Mypractice\EF-Four\EF-Four\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mypractice\EF-Four\EF-Four\obj\Debug\EF-Four.csproj.AssemblyReference.cache
+E:\Mypractice\EF-Four\EF-Four\obj\Debug\EF-Four.csproj.CoreCompileInputs.cache
+E:\Mypractice\EF-Four\EF-Four\obj\Debug\EF-Four.csproj.Up2Date
+E:\Mypractice\EF-Four\EF-Four\obj\Debug\EF-Four.exe
+E:\Mypractice\EF-Four\EF-Four\obj\Debug\EF-Four.pdb

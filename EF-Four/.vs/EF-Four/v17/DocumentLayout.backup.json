@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mypractice\\EF-Four\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|e:\\mypractice\\ef-four\\ef-four\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|solutionrelative:ef-four\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|e:\\mypractice\\ef-four\\ef-four\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|solutionrelative:ef-four\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|e:\\mypractice\\ef-four\\ef-four\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|solutionrelative:ef-four\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|e:\\mypractice\\ef-four\\ef-four\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|solutionrelative:ef-four\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|e:\\mypractice\\ef-four\\ef-four\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|solutionrelative:ef-four\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|e:\\mypractice\\ef-four\\ef-four\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|solutionrelative:ef-four\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|e:\\mypractice\\ef-four\\ef-four\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BC02B5E-18ED-4924-BC5E-255900A1F3A2}|EF-Four\\EF-Four.csproj|solutionrelative:ef-four\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Four\\EF-Four\\App.config",
+              "RelativeDocumentMoniker": "EF-Four\\App.config",
+              "ToolTip": "E:\\Mypractice\\EF-Four\\EF-Four\\App.config",
+              "RelativeToolTip": "EF-Four\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T05:55:01.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Four\\EF-Four\\ProductContext.cs",
+              "RelativeDocumentMoniker": "EF-Four\\ProductContext.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Four\\EF-Four\\ProductContext.cs",
+              "RelativeToolTip": "EF-Four\\ProductContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:40:48.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Four\\EF-Four\\Product.cs",
+              "RelativeDocumentMoniker": "EF-Four\\Product.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Four\\EF-Four\\Product.cs*",
+              "RelativeToolTip": "EF-Four\\Product.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:33:24.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Four\\EF-Four\\ProductType.cs",
+              "RelativeDocumentMoniker": "EF-Four\\ProductType.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Four\\EF-Four\\ProductType.cs",
+              "RelativeToolTip": "EF-Four\\ProductType.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:30:27.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Four\\EF-Four\\Brand.cs",
+              "RelativeDocumentMoniker": "EF-Four\\Brand.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Four\\EF-Four\\Brand.cs",
+              "RelativeToolTip": "EF-Four\\Brand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:28:50.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Four\\EF-Four\\Category.cs",
+              "RelativeDocumentMoniker": "EF-Four\\Category.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Four\\EF-Four\\Category.cs",
+              "RelativeToolTip": "EF-Four\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:24:56.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Four\\EF-Four\\Program.cs",
+              "RelativeDocumentMoniker": "EF-Four\\Program.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Four\\EF-Four\\Program.cs",
+              "RelativeToolTip": "EF-Four\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:48:19.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
