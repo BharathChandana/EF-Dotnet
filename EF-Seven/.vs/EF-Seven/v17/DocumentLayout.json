@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mypractice\\EF-Seven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|e:\\mypractice\\ef-seven\\ef-seven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|solutionrelative:ef-seven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|E:\\Mypractice\\EF-Seven\\ef-seven\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|solutionrelative:ef-seven\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|E:\\Mypractice\\EF-Seven\\ef-seven\\dal\\onlinemartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|solutionrelative:ef-seven\\dal\\onlinemartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|E:\\Mypractice\\EF-Seven\\ef-seven\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|solutionrelative:ef-seven\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|E:\\Mypractice\\EF-Seven\\ef-seven\\migrations\\202411080548100_createcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|solutionrelative:ef-seven\\migrations\\202411080548100_createcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|E:\\Mypractice\\EF-Seven\\ef-seven\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD5211EA-1428-4A3C-8957-02C7749D9439}|EF-Seven\\EF-Seven.csproj|solutionrelative:ef-seven\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202411080548100_CreateCategory.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Seven\\EF-Seven\\Migrations\\202411080548100_CreateCategory.cs",
+              "RelativeDocumentMoniker": "EF-Seven\\Migrations\\202411080548100_CreateCategory.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Seven\\EF-Seven\\Migrations\\202411080548100_CreateCategory.cs",
+              "RelativeToolTip": "EF-Seven\\Migrations\\202411080548100_CreateCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:48:27.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Seven\\EF-Seven\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "EF-Seven\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Seven\\EF-Seven\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "EF-Seven\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAABAAAACAzMzMzMwvwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:40:39.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Seven\\EF-Seven\\App.config",
+              "RelativeDocumentMoniker": "EF-Seven\\App.config",
+              "ToolTip": "E:\\Mypractice\\EF-Seven\\EF-Seven\\App.config",
+              "RelativeToolTip": "EF-Seven\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-08T05:33:33.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnlineMartContext.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Seven\\EF-Seven\\DAL\\OnlineMartContext.cs",
+              "RelativeDocumentMoniker": "EF-Seven\\DAL\\OnlineMartContext.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Seven\\EF-Seven\\DAL\\OnlineMartContext.cs",
+              "RelativeToolTip": "EF-Seven\\DAL\\OnlineMartContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:30:51.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Seven\\EF-Seven\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "EF-Seven\\Model\\Category.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Seven\\EF-Seven\\Model\\Category.cs",
+              "RelativeToolTip": "EF-Seven\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:25:24.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mypractice\\EF-Seven\\EF-Seven\\Program.cs",
+              "RelativeDocumentMoniker": "EF-Seven\\Program.cs",
+              "ToolTip": "E:\\Mypractice\\EF-Seven\\EF-Seven\\Program.cs",
+              "RelativeToolTip": "EF-Seven\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:23:48.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

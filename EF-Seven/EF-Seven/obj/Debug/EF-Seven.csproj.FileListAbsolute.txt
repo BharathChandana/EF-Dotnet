@@ -1,0 +1,14 @@
+E:\Mypractice\EF-Seven\EF-Seven\bin\Debug\EF-Seven.exe.config
+E:\Mypractice\EF-Seven\EF-Seven\bin\Debug\EF-Seven.exe
+E:\Mypractice\EF-Seven\EF-Seven\bin\Debug\EF-Seven.pdb
+E:\Mypractice\EF-Seven\EF-Seven\bin\Debug\EntityFramework.dll
+E:\Mypractice\EF-Seven\EF-Seven\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mypractice\EF-Seven\EF-Seven\bin\Debug\EntityFramework.xml
+E:\Mypractice\EF-Seven\EF-Seven\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mypractice\EF-Seven\EF-Seven\obj\Debug\EF-Seven.csproj.AssemblyReference.cache
+E:\Mypractice\EF-Seven\EF-Seven\obj\Debug\EF-Seven.csproj.CoreCompileInputs.cache
+E:\Mypractice\EF-Seven\EF-Seven\obj\Debug\EF-Seven.csproj.Up2Date
+E:\Mypractice\EF-Seven\EF-Seven\obj\Debug\EF-Seven.exe
+E:\Mypractice\EF-Seven\EF-Seven\obj\Debug\EF-Seven.pdb
+E:\Mypractice\EF-Seven\EF-Seven\obj\Debug\EF_Seven.Migrations.CreateCategory.resources
+E:\Mypractice\EF-Seven\EF-Seven\obj\Debug\EF-Seven.csproj.GenerateResource.cache
